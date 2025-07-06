@@ -1,0 +1,11 @@
+h2 {
+	/* Changes the font and color of the header */
+	font-family: 'Courier New', Courier, monospace;
+	color: red;
+}
+
+p {
+	/* Changes color and italic */
+	font-style: italic;
+	color: blue;
+}
