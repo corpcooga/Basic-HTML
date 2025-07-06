@@ -9,3 +9,12 @@ p {
 	font-style: italic;
 	color: blue;
 }
+
+/* unordered list bullet type */
+ul.rome {
+	list-style-type: lower-roman;
+}
+
+ul.square {
+	list-style-type: square;
+}
